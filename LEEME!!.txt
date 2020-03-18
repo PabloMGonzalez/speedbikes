@@ -1,0 +1,24 @@
+- Usuario BD
+		$dbname="speedbikes";
+		$usuario="usuarioweb";
+		$contrasenia="HOLApayaso_2019";
+
+
+- Usuarios y contraseña
+
+	usuario pm.gonzaalez@gmail.com - psw: 1234 - Admin
+		e.corradi@gmail.com- psw: 1234 - Admin
+		jperez@hotmail.com - psw: 456 - Encargado
+		f.carlos@gmail.com - psw: 456 - Encargado
+
+- Actualizacion
+
+	implementado ABM_bicicleta.php
+		     ABM_marcas.php
+		     marcas.php
+
+- Falta 
+	cargar imagenes y bajas.
+
+- Mejorar
+	validaciones, solo ve q no este en blanco o sea nulo
